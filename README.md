@@ -1,4 +1,4 @@
-# Hey there! Thanks for visiting!
+![Profile Banner](./public/github-header-image.png)
 
 I'm Omkar, a passionate and enthusiastic technically driven person with a constant learning and development attitude (and a bit self-obsessed too, hehe).
 
